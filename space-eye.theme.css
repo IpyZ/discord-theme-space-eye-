@@ -1,10 +1,3 @@
-//META{"name":"space-eye","description":"This is my first theme but it's very advanced (like me)","author":"IpyZ#0639","version":"0.0.1"}*//{}
-
-/*How to instal
-1. User settings>Themes>Open theme folder.
-2. Push this file to opened folder.
-*/
-
 ::selection {
 	background-color: rgb(46, 255, 0) !important;
 	color: rgb(0, 0, 0) !important;

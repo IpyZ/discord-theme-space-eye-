@@ -1,0 +1,244 @@
+//META{"name":"space-eye","description":"This is my first theme but it's very advanced (like me)","author":"IpyZ#0639","version":"0.0.1"}*//{}
+
+/*How to instal
+1. User settings>Themes>Open theme folder.
+2. Push this file to opened folder.
+*/
+
+::selection {
+	background-color: rgb(46, 255, 0) !important;
+	color: rgb(0, 0, 0) !important;
+}
+
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
+.appMount-3VJmYg {background: url('https://i.pinimg.com/originals/4e/1b/b6/4e1bb6806f22fef948028a7191d5d5c0.jpg') center/cover no-repeat}
+
+/* Transparency level */
+.theme-dark .layers-3iHuyZ {
+    background: rgba(0,0,0,0.7)!important;
+}
+/* Transparency Level at settings */
+.app .standardSidebarView-3F1I7i {
+    background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .friends-table, .theme-dark .theme-dark .messages-wrapper, .theme-dark .chat, .channels-Ie2l6A, .guilds-wrapper, .container-2lgZY8, .theme-dark .layer-3QrUeG, .theme-dark .typing-2GQL18,
+.theme-dark .members-1998pB, .theme-dark .chat>.content, .theme-dark .title-3qD0b-, .container-PNkimc, .channels-Ie2l6A, .theme-dark .chat form, .container-2Thooq, .theme-dark .headerBar-UHpsPw,
+.theme-dark .friends-table .theme-dark .messages .theme-dark .divider:before, .theme-dark .friends-table .theme-dark .messages .theme-dark .divider span, .theme-dark .messages-wrapper .theme-dark .messages .theme-dark .divider:before, .theme-dark .messages-wrapper .theme-dark .messages .theme-dark .divider span, .theme-dark #friends,
+.theme-dark .activityFeed-28jde9, .theme-dark .header-1RC2Wb, .theme-dark .ui-standard-sidebar-view, .theme-dark .noChannel-Z1DQK7, .theme-dark .sidebarRegion-VFTUkN, .theme-dark .contentRegion-3nDuYy
+{
+    background:rgba(0,0,0,0)!important;
+}
+
+#friends, .theme-dark .search-l1Wz-Q, .theme-dark .chat, .theme-dark .channels-Ie2l6A, .theme-dark .container-2Thooq {
+    background: rgba(0, 0, 0, 0.0)!important;
+}
+
+.typeWindows-1za-n7 {
+    background-color: rgba(0,0,0,0.8)!important;
+    height: 18px;
+    margin-top: 1px;
+}
+.contentSelectedText-3wUhMi,.private-channels .channel.selected a,.private-channels .channel:hover a,
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active,.contentSelectedVoice-1WDIBM:active,
+.theme-dark .member-3W1lQa:hover .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4,
+.theme-dark #friends .friends-table .friends-row:hover, .theme-dark .header-1RC2Wb, .theme-dark .body-SKIE6r, .theme-dark .emptyState-2-sT0o {
+    background:rgba(0,0,0,0.2)!important;
+}
+.theme-dark .message-group .comment .markup code.inline{
+    background:rgba(46,49,54,0.5)!important;
+}
+/** scrollbar **/
+.theme-dark .member-2FrNV0:hover .content-3JzEqq, .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color:rgba(0,0,0,0.5);
+    border-color:transparent;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    border-color:transparent;
+    background-clip: padding-box;
+    border: 3px solid #fff;
+    border-radius: 7px;
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color:transparent;
+    border-color:transparent;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-color: #f3f3f3;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-color:transparent;
+    background-clip: padding-box;
+    border: 3px solid rgba(0,0,0,0);
+    border-radius: 7px;
+}
+/* */
+
+.layers,
+.container-PNkimc,
+.container-2lgZY8,
+.theme-dark .layer-3QrUeG,
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY, .theme-dark .guildsWrapper-5TJh6 {
+    background: rgba(0,0,0,0);
+}
+    .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY {
+    background: rgba(0,0,0,0.0);
+}
+.theme-dark .chat form {
+    background: transparent !important;
+}
+.links,
+.chat-3bRxxu,
+.typing-2GQL18,
+.content-yTz4x3,
+.guild-channels,
+.private-channels,
+.guild-header header,
+.dividerRed-MKoLlr span,
+.messagesWrapper-3lZDfY,
+#rtc-connection,
+#voice-connection {
+    background: transparent !important;
+}
+
+/* */
+.theme-dark .guildsWrapper-5TJh6A {
+	background-color: transparent
+}
+.theme-dark .attachment-33OFj0 { 
+background-color: rgba(47, 49, 54, 0.298039); 
+border-color: rgba(47, 49, 54, 0.6); 
+}
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY { 
+background: rgba(0, 0, 0, 0.0); 
+}
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline { 
+background: rgb(47, 49, 54); 
+}
+
+/* Scroll Bar */
+.theme-dark ::-webkit-scrollbar, .chat-3bRxxu ::-webkit-scrollbar {
+	width: 10px !important
+}
+.theme-dark ::-webkit-scrollbar-track-piece, .chat-3bRxxu ::-webkit-scrollbar-track-piece, .channels-Ie2l6A ::-webkit-scrollbar-track, .chat-3bRxxu ::-webkit-scrollbar-track { 
+    background: transparent !important; 
+    border-color: transparent !important;
+}
+.theme-dark ::-webkit-scrollbar-thumb, .chat-3bRxxu ::-webkit-scrollbar-thumb {
+    background-color: rgba(0,0,0,0.5) !important;
+    border-color: transparent !important;
+}
+.theme-dark ::-webkit-scrollbar-thumb:hover, .chat-3bRxxu ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 144, 0, 255) !important;
+}
+.theme-dark ::-webkit-scrollbar-thumb {
+    border-color: transparent !important;
+    background: rgba(0, 255, 140, 0.5) !important;
+}
+
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-base > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix.da-spacer.da-firefoxFixScrollFlex > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.da-channels.da-vertical.da-flex.da-directionColumn > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.container-PNkimc.firefoxFixScrollFlex-cnI2ix.da-container.da-firefoxFixScrollFlex > div.channelNotices-41mJbj.da-channelNotices > div {
+	background-color: transparent !important;
+}
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.guildsWrapper-5TJh6A.da-guildsWrapper > div.scroller-wrap.scrollerWrap-1IAIlv.da-scrollerWrap > div > button {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.0) !important;
+}
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.guildsWrapper-5TJh6A.da-guildsWrapper > div.scroller-wrap.scrollerWrap-1IAIlv.da-scrollerWrap > div > div.guild-1EfMGQ.da-guild.selected-ML3OIq.da-selected::before {
+	background: transparent !important;
+	background-color: rgba (0, 0, 0, 0.0) !important;
+	border: 1px solid rgb(67, 0, 255) !important;
+}
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-base > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix.da-spacer.da-firefoxFixScrollFlex > div.chat-3bRxxu.firefoxFixScrollFlex-cnI2ix.da-chat.da-firefoxFixScrollFlex > div.content-yTz4x3.firefoxFixScrollFlex-cnI2ix.da-content.da-firefoxFixScrollFlex > div.membersWrap-2h-GB4.da-membersWrap > div > div > div {
+	border: 2px solid red;
+	border-radius: 10px;
+	height: auto !important;
+	padding-top: 2px !important;
+}
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-base > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix.da-spacer.da-firefoxFixScrollFlex > div.chat-3bRxxu.firefoxFixScrollFlex-cnI2ix.da-chat.da-firefoxFixScrollFlex > div.content-yTz4x3.firefoxFixScrollFlex-cnI2ix.da-content.da-firefoxFixScrollFlex > div.membersWrap-2h-GB4.da-membersWrap > div > div > div.memberOnline-1CIh-0.member-3W1lQa.da-memberOnline.da-member {
+	border: none !important;
+}
+#app-mount > div.app-19_DXt.da-app.platform-win > div > div.layers-3iHuyZ.da-layers.flex-vertical.flex-spacer > div > div > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz.da-base > div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix.da-spacer.da-firefoxFixScrollFlex > div.chat-3bRxxu.firefoxFixScrollFlex-cnI2ix.da-chat.da-firefoxFixScrollFlex > div.content-yTz4x3.firefoxFixScrollFlex-cnI2ix.da-content.da-firefoxFixScrollFlex > div.membersWrap-2h-GB4.da-membersWrap > div > div > div.memberOffline-2lN7gt.member-3W1lQa.da-memberOffline.da-member {
+	border: none !important;
+}
+
+.containerDefault-1ZnADq, .containerDragAfter-1F4fgZ, .containerDragBefore-31UGCO, .containerUserOver-1U5YnL {
+	width: 225px !important;
+	transition-timing-function: ease !important;
+	transition: transform 0.5s !important;
+}
+
+.containerDefault-1ZnADq:hover, .containerDragAfter-1F4fgZ:hover, .containerDragBefore-31UGCO:hover, .containerUserOver-1U5YnL:hover {
+	transform:translate(5px, 0px) !important;
+}
+
+.theme-dark .homeIcon-1FoKUJ {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.0) !important;
+}
+.unread-1Dp-OI {
+	background: transparent !important;
+	background-color: rgba (0, 0, 0, 0.0);
+	border: 1px solid rgb(67, 0, 255) !important;
+}
+
+.theme-dark .markup-2BOw-j pre {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.5) !important;
+	
+}
+
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {
+	background: none !important;
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.0) !important;
+	color: rgb(255, 35, 35) !important;
+}
+
+.markup-2BOw-j pre {
+	border: 2px solid rgb(67, 0, 255) !important;
+	border-radius: 10px !important;
+}
+
+.theme-dark .wrapperHover-1GktnT:hover {
+	background: transparent !important;
+	background-color: rgba(255, 144, 0, 0.75) !important;
+}
+
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.0) !important;
+	border: 2px solid rgb(67, 0, 255) !important;
+	border-radius: 10px !important;
+}
+
+.channel-2QD9_O {
+	transition-timing-function: ease !important;
+	transition: transform 0.5s !important;
+	width: 225px !important;
+}
+
+.channel-2QD9_O:hover {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.5) !important;
+	transform: translate(5px, 0px) !important;
+}
+
+.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a {
+	background: none !important;
+}
+.theme-dark .card-7JP0BX {
+	background: none !important;
+	border: 2px solid rgb(67, 0, 255);
+}
+
+.theme-dark .dockItem-2kQDqg {
+	transition-timing-function: ease !important;
+	transition: transform 0.5s !important;
+}
+
+.theme-dark .dockItem-2kQDqg:hover {
+	background: none !important;
+	transform: scale(1.1) !important;
+}

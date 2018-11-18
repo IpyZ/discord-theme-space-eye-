@@ -5,6 +5,12 @@
 2. Push this file to opened folder.
 */
 
+@import url('https://fonts.googleapis.com/css?family=Raleway:200');
+
+body {
+	font-family: 'Raleway', sans-serif !important;
+}
+
 ::selection {
 	background-color: rgb(46, 255, 0) !important;
 	color: rgb(0, 0, 0) !important;
@@ -241,4 +247,63 @@ background: rgb(47, 49, 54);
 .theme-dark .dockItem-2kQDqg:hover {
 	background: none !important;
 	transform: scale(1.1) !important;
+}
+
+.theme-dark .menu-Sp6bN1 {
+	background: transparent !important;
+	background: rgba(0, 0, 0, 0.8) !important;
+	box-shadow: none !important;
+}
+
+.menu-Sp6bN1 {
+	border: 2px solid rgb(67, 0, 255) !important;
+	border-radius: 10px !important;
+}
+
+.theme-dark .separator-2zcjq8 {
+	border-bottom-color: rgb(67, 0, 255) !important;
+}
+
+.theme-dark .item-1GzJrl {
+	overflow: hidden !important;
+	transition-timing-function: ease !important;
+	transition: transform 0.5s !important;
+}
+
+.theme-dark .item-1GzJrl:hover {
+	transform: scale(1.1) !important;
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.theme-dark .headerNormal-T_seeN {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.9) !important;
+}
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.theme-dark .quickMessage-1yeL4E {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0.9) !important;
+	border-color: rgb(67, 0, 255) !important;
+	border-width: 2px !important;
+}
+
+.popout-3sVMXz {
+	border-color: rgb(67, 0, 255) !important;
+	border-width: 2px !important;
+	border-radius: 10px !important;
+}
+
+.member-3W1lQa {
+	transition-timing-function: ease !important;
+	transition: transform 0.5s !important;
+}
+
+.member-3W1lQa:hover {
+	transform: translate(5px, 0px) !important;
 }
